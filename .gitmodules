@@ -1,0 +1,6 @@
+[submodule "external/GRiD"]
+	path = external/GRiD
+	url = https://github.com/robot-acceleration/GRiD.git
+[submodule "external/parallel-DDP"]
+	path = external/parallel-DDP
+	url = https://github.com/plancherb1/parallel-DDP.git
